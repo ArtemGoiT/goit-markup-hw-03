@@ -185,7 +185,7 @@ cursor: pointer;}
 
 .main-list {display: flex;
   gap: 24px;
-  padding: 188px 0;
+
 
 }
 
@@ -215,7 +215,6 @@ letter-spacing: 0.02em;
 .section-photo {background-color: #f4f4fd;
   color: #2e2f42;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -240,7 +239,7 @@ letter-spacing: 0.02em;
 
 .photo-item { 
   width: calc((100% - 72px)/4);
-
+background-color: #fff;
     border-radius: 0px 0px 4px 4px;}
     
 
